@@ -13,10 +13,13 @@
 ### Example output (You can re-design to make it look better)
 
 ### Screenshot #1:
-![GUI](https://github.com/ikostan/Android_UI_Essentials/blob/master/screens/Capture_1.JPG?raw=true "GUI screenshot")
+![GUI](https://github.com/ikostan/Simple_Android_App_6/blob/master/files/1.JPG?raw=true "GUI screenshot")
 
 ### Screenshot #2:
-![GUI](https://github.com/ikostan/Android_UI_Essentials/blob/master/screens/Capture_2.JPG?raw=true "GUI screenshot")
+![GUI](https://github.com/ikostan/Simple_Android_App_6/blob/master/files/2.JPG?raw=true "GUI screenshot")
 
 ### Screenshot #3:
-![GUI](https://github.com/ikostan/Android_UI_Essentials/blob/master/screens/Capture_3.JPG?raw=true "GUI screenshot")
+![GUI](https://github.com/ikostan/Simple_Android_App_6/blob/master/files/3.JPG?raw=true "GUI screenshot")
+
+### Screenshot #4:
+![GUI](https://github.com/ikostan/Simple_Android_App_6/blob/master/files/4.JPG?raw=true "GUI screenshot")
